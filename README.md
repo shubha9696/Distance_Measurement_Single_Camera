@@ -1,6 +1,8 @@
 # 📷 Real-Time Distance & Speed Estimation Using a Single Camera
 
-![GitHub Repo stars](https://img.shields.io/github/stars/shubham-chakrawarti/Distance_measurement_using_single_camera?style=social) ![GitHub forks](https://img.shields.io/github/forks/shubham-chakrawarti/Distance_measurement_using_single_camera?style=social)
+[![Vercel Live Demo](https://img.shields.io/badge/Vercel-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://webapp-sepia-beta.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubha9696/Distance_Measurement_Single_Camera)
+![GitHub Repo stars](https://img.shields.io/github/stars/shubha9696/Distance_Measurement_Single_Camera?style=social) ![GitHub forks](https://img.shields.io/github/forks/shubha9696/Distance_Measurement_Single_Camera?style=social)
 
 Estimate the real-time distance and movement speed of objects using a standard camera or webcam. This project implements the **Triangle Similarity** (Pinhole Camera Model) algorithm to calculate how far an object is from the camera lens without requiring expensive depth sensors or LIDAR.
 
